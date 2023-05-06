@@ -1,5 +1,5 @@
 import {useLocation,useNavigate} from "react-router-dom";
-
+//navigate ile tıklandığında o sayfaya gidiyor
 
 export default function Header() {
     const location=useLocation();
