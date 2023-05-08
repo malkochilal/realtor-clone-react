@@ -82,5 +82,5 @@ export default function SignIn() {
       </div>
       </section> 
     
-  )
+  );
 }
